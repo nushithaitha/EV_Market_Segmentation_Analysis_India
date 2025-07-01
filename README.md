@@ -12,12 +12,14 @@ This document outlines the key research questions, customer segmentation strateg
 EV-Market-Research/
 ├── 📊 dataset/
 │   ├── codebook.docx                        # Documentation of EV sales dataset
+|   ├── ev_sales.xlsx                        #dataset for vehicle Analysis
+|   ├── EV_Sales_Cleaned_Upto_2025.csv
 │   ├── Questionnaire.docx                   # Survey forms and questionnaires
 │   ├── Response.xlsx 
 │   └── SPSS.sav
-                       
+|              
 ├── 🖼️ images/
-
+|
 ├── 📓 notebooks/
 │   ├── 01_Vehicle_Segmentation.ipynb       # Market size, trends, and vehicle type analysis
 │   ├── 02_Customer_Segmentation.ipynb      # Customer profiling and targeting strategy
