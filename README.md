@@ -10,20 +10,21 @@ This document outlines the key research questions, customer segmentation strateg
 
 ```
 EV-Market-Research/
-├── 📓 notebooks/
-│   ├── 01_Vehicle_Segmentation.ipynb       # Market size, trends, and vehicle type analysis
-│   ├── 02_Customer_Segmentation.ipynb      # Customer profiling and targeting strategy
-│   
-│
 ├── 📊 dataset/
 │   ├── codebook.docx                        # Documentation of EV sales dataset
 │   ├── Questionnaire.docx                   # Survey forms and questionnaires
-│   ├── Response.xlsx                        
-│   └── SPSS.sav                            
-│
+│   ├── Response.xlsx 
+│   └── SPSS.sav
+                       
 ├── 🖼️ images/
-├── 📋 requirements.txt                      # Python dependencies
-└── 📘 README.md                            
+
+├── 📓 notebooks/
+│   ├── 01_Vehicle_Segmentation.ipynb       # Market size, trends, and vehicle type analysis
+│   ├── 02_Customer_Segmentation.ipynb      # Customer profiling and targeting strategy
+|            
+├──  README.md
+|
+└── 📋 requirements.txt                     # Python dependencies
 ```
 
 ---
