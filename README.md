@@ -17,7 +17,9 @@ EV-Market-Research/
 │   ├── Questionnaire.docx                   # Survey forms and questionnaires
 │   ├── Response.xlsx 
 │   └── SPSS.sav
-|              
+|
+|── Project Reoprt                           # Detailed report of the project
+|
 ├── 🖼️ images/
 |
 ├── 📓 notebooks/
